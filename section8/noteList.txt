@@ -1,0 +1,4 @@
+Günseli Gülgeç,5,25,73
+Furkan Ünsal,100,100,95
+Maxwell,65,85,75
+Euler,15,85,35
